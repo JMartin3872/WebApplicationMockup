@@ -1,0 +1,19 @@
+.aclass {
+    color: blue;
+    font-size: xx-large;
+    
+}
+
+.row{
+    outline: black;
+    outline-style: dotted;
+}
+
+.link{
+    color: red;
+    font-style: italic;
+}
+
+.bigtext{
+    font-size: xx-large;
+}
